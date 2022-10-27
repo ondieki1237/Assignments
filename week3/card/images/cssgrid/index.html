@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CSS Grids</title>
+  <style>
+    .wrapper{
+      display:grid;
+      grid-template-columns: 30% 30% 30%;
+      grid-gap:1em;
+      height: 600px;
+      width: 1000px;
+      /* align-items: center; */
+      padding-left: 300px;
+      Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
+    }
+
+    .wrapper > div{
+      background:#eee;
+      padding:1em;
+    }
+    .wrapper > div:nth-child(odd){
+      background:#ddd;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="wrapper">
+    <div>
+      <img src="/images/favicon-32x32.png" width
+      ="70px" alt="">
+      <h2>Tumsda</h2>
+      <p><small>Welcome to T    .p{
+        font-family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca);
+      }echnical University of Mombasa SDA group
+         we welcome you and wis that you find every reason to stay with us!
+      </small></p>
+      <button class="button1">Visit us</button>
+    </div>
+    <div>
+      <img src="/images/adventist-symbol-all--symbol-tm/icon-sedans.svg" width
+      ="70px" alt="">
+      <h2>Tumsda</h2>
+      <p><small>Welcome to Technical University of Mombasa SDA group
+         we welcome you and wis that you find every reason to stay with us!
+      </small></p>
+      <button class="button1">Visit us</button>
+    </div>
+    <div>
+      <img src="/images/adventist-symbol-all--symbol-tm/icon-suvs.svg" width
+      ="70px" alt="">
+      <h2>Tumsda</h2>
+      <p><small>Welcome to Technical University of Mombasa SDA group
+         we welcome you and wis that you find every reason to stay with us!
+      </small></p>
+      <button class="button1">Visit us</button>
+    </div>
+  </div>
+</body>
+</html>
