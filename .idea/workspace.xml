@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f104af32-4544-41eb-a71b-e424e73dbe3d" name="Changes" comment="wrong file&#10;&#10;wrong file">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/zuri.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/.cache/replit/nix/env.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/.config/configstore/update-notifier-npm.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/.config/configstore/update-notifier-npm.json.2701252402" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/.replit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/images/pexels-pixabay-35888.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3/card/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +20,15 @@
     </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gi3AAcSJt57YDjiRAEVHjBIeoM" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,6 +74,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="makori" />
     <MESSAGE value="wrong file&#10;&#10;wrong file" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrong file&#10;&#10;wrong file" />
+    <MESSAGE value="who can be this good" />
+    <option name="LAST_COMMIT_MESSAGE" value="who can be this good" />
   </component>
 </project>
